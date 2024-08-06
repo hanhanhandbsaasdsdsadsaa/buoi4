@@ -1,0 +1,13 @@
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.exe
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.deps.json
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.runtimeconfig.json
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.runtimeconfig.dev.json
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.dll
+E:\PTTKTT\Buoi4\thuatToanThamLam\bin\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.pdb
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.GeneratedMSBuildEditorConfig.editorconfig
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.AssemblyInfoInputs.cache
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.AssemblyInfo.cs
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.csproj.CoreCompileInputs.cache
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.dll
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.pdb
+E:\PTTKTT\Buoi4\thuatToanThamLam\obj\Debug\netcoreapp3.1\thuatToanThamLam_vidu2.genruntimeconfig.cache
